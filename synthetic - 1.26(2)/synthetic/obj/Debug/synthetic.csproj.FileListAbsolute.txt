@@ -1,0 +1,181 @@
+C:\Users\xiaoyu\AppData\Local\Temporary Projects\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2)\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 副本 (2) - 副本\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.15\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.16\synthetic\obj\Debug\synthetic.Parameter_setting.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.17\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.18\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.20\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.21\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.22\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.23\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.24\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.25\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\串口助手\synthetic - 1.26\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.exe
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.pdb
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.pdb
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\22098\Desktop\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2)\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe.config
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.ResolveComReference.cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.exe
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\bin\Debug\synthetic.pdb
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csprojResolveAssemblyReference.cache
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Form1.resources
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.Properties.Resources.resources
+C:\Users\xiaoyu\Desktop\synthetic - 1.26(2) - 副本 - 副本\synthetic - 1.26(2)\synthetic\obj\Debug\synthetic.csproj.GenerateResource.Cache
